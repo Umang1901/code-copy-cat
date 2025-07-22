@@ -118,19 +118,19 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Kamlesh Sahani
+Umang Tiwari
 
 ## Email
 
-kamleshbca2005@gmail.com
+tumang487@gmail.com
 
 ## Repository
 
-[GitHub Repository](https://github.com/kamlesh-Sahani/code-copy-cat)
+[GitHub Repository](https://github.com/Umang1901/code-copy-cat)
 
 ## Bugs
 
-If you find any bugs, please report them at the [Issues Page](https://github.com/kamlesh-Sahani/code-copy-cat/issues).
+If you find any bugs, please report them at the [Issues Page]https://github.com/Umang1901/code-copy-cat/issues).
 
 ## Homepage
 
